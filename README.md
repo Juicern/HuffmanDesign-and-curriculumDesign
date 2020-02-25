@@ -1,2 +1,2 @@
 # HuffmanDesign-and-curriculumDesign
-数据结构课程设计：哈夫曼编码与解码，图书馆图书管理系统
+具体使用方法和原理已在“设计报告”文档中给出，readme中不再赘述
